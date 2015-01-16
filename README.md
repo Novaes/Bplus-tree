@@ -1,7 +1,7 @@
 # Bplus-tree
 Project from Data Structure and Algorithms II (2013.1)
 
-The full specification in Portuguese can be found on the pdf.
+The full specification in Portuguese can be found on the specification_project.pdf
 
 Basic inputs:<br />
 
